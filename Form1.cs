@@ -19,7 +19,7 @@ namespace test_git_2
 
         private void frmMain_Load(object sender, EventArgs e)
         {
-
+            // Commento aggiuntivo : Questo è il frmMain Load
         }
 
         private void button1_Click(object sender, EventArgs e)
